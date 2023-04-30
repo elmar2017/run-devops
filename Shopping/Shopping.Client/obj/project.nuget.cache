@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FLy+SYS2G2BLq4o919rLWVOS6qcCOg35/rLjE/KbK9P6AbOwetITlS9QN4YuS/TFqWvjABoCwloYq2Co+3cQ9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAMM024\\Documents\\run-devops-main\\run-devops-main\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAMM024\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\MAMM024\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
